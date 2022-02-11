@@ -6,6 +6,10 @@ h5 {font: times; font-size: 36; color: black}
 .ari{color: blue}
 .bel{color:maroon}
 .chry{color: red}
+.phi{color:purple}
+h6:hover{
+    color:red
+}
 
 table {border: solid 3px; text-align: left; color:black; border-collapse: separate;
 background-color: cyan;}
