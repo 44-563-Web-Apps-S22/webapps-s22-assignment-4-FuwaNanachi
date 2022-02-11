@@ -1,0 +1,17 @@
+
+p {font: times; font-size: 24; color: black}
+h6 {font: times; font-size: 12; color: black; background-color: aquamarine;}
+h5 {font: times; font-size: 36; color: black}
+
+.ari{color: blue}
+.bel{color:maroon}
+.chry{color: red}
+.phi{color:purple}
+h6:hover{
+    color:red
+}
+
+table {border: solid 3px; text-align: left; color:black; border-collapse: separate;
+background-color: cyan;}
+
+td{border: solid 2px; color: black; border-collapse: collapse;}
